@@ -48,9 +48,9 @@ In future versions of the **Train TXM Tracker**, the following features can be a
 ## How to Use ⚙️
 
 1. Clone the repository to your local system. 🖥️
-2. Configure the database connection in the `application.properties` file. ⚙️
+2. Configure the database connection in the `ConnectionProvider.java` file. ⚙️
 3. Run the application using your preferred IDE or the command line. 🚀
-4. Use the frontend or RESTful APIs to interact with the system and analyze motor data. 🌐
+4. Use the console to interact with the system and analyze motor data. 🌐
 
 ---
 
